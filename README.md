@@ -1,4 +1,4 @@
-# Microservices Udemy Course repository
+# Microservices repository
 
 This is the repository for the Microservices 'Carsties' app created for the Udemy course released in July 2023.
 
